@@ -1,5 +1,0 @@
-{
-  "root": "D:/CRISPR/crispr_pr",
-  "source_models": "D:/CRISPR/crispr_pr/models/PAM2Zero_TypedPairEdges_v1/baseline",
-  "output": "D:/CRISPR/crispr_pr/models/PAM2Zero_GitHubPaper"
-}
