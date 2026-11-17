@@ -1,0 +1,16 @@
+{
+  "sources": {
+    "Atrain_PAM2Zero_FactorizedD170.py": "14be9466d5e2ecafbcd36b49404ab845a148780d39f2ab79dda0b50485cba631",
+    "Atrain_FinalPAM2Zero_PaperSuite.py": "8e5b024b4c8ee1b7e09cddf45c9078906b1da4f438b3b38d3b5d441419dc8444",
+    "train_dchain_shape_fixed_all7.py": "942cca789db0c7f5a20bb60aefc9e41f2bac404230011cf593ef31d7e755ad93"
+  },
+  "refactoring": "Functions extracted from final experiment sources; shared configuration and numerical modes preserved.",
+  "primary_checkpoint_sha256": "c8ee012523c64b52cb7197f9ba4c1e4fbf911dfccf8271627885f5030d9cc449",
+  "primary_model": "guide20 + PAM last2, zero-initialized PAM",
+  "training_data_included": false,
+  "checkpoints_included": false,
+  "numerical_modes": [
+    "typed_vector",
+    "legacy_logits"
+  ]
+}
